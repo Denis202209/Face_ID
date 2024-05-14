@@ -55,12 +55,19 @@ Create a table in the database. Enter the SQL command to create the table:
 Open PyCharm terminal or any other command interface and install the following packages using pip:
 <br>
 *pip install opencv-python==4.3.0.38
+<br>
 pip install mtcnn
+<br>
 pip install keras_preprocessing
+<br>
 pip install Pillow
+<br>
 pip install h5py
+<br>
 pip install mysql-connector-python
+<br>
 pip install scikit-learn
+<br>
 pip install tensorflow*
 <br>
 <br>

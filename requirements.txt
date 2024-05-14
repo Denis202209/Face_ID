@@ -1,0 +1,9 @@
+pip install opencv-python==4.3.0.38
+pip install mtcnn
+pip install keras_preprocessing
+pip install Pillow
+pip install h5py
+pip install mysql-connector-python
+pip install scikit-learn
+pip install tensorflow
+
